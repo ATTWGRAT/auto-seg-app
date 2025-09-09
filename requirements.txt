@@ -1,0 +1,6 @@
+CustomTkinter
+tkinter
+monai[all]
+pydicom
+highdicom
+huggingface_hub
