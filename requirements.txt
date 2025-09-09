@@ -1,5 +1,4 @@
 CustomTkinter
-tkinter
 monai[all]
 pydicom
 highdicom
